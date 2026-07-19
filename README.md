@@ -21,8 +21,19 @@ A Machine Learning web application that detects whether a news article is **Fake
 
 ## Dataset
 
-- Fake.csv
-- True.csv
+This project uses the **Fake and Real News Dataset** from Kaggle.
+
+Download it here:
+
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+After downloading, extract the ZIP file and place the two CSV files in the `data` folder:
+
+```text
+data/
+├── Fake.csv
+└── True.csv
+```
 
 ## Project Structure
 
